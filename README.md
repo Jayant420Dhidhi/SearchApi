@@ -87,4 +87,11 @@ Here are the API description:
     - `btype` : nature of business.
     - `ptype` : manufacturing process.
 
-##Results and screenshots
+## Results and screenshots
+
+![image](https://github.com/user-attachments/assets/96fd71b1-5076-4e5d-a79a-b98ad6497922)
+
+![image](https://github.com/user-attachments/assets/abdaad44-5e3b-49e8-a48f-58038c7490a3)
+
+
+
