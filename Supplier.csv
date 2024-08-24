@@ -1,0 +1,47 @@
+supplier_id,company_name,location,manufacturing_process,nature_of_bussiness,website
+6,"ABC Manufacturing",india,moulding,small_scale,www.abcmfg.com
+7,"XYZ Industries",china,printing_3d,medium_scale,www.xyzind.com
+8,"Global Tech",germany,casting,large-scale,www.globaltech.com
+9,"Innovate Corp",india,coating,small_scale,www.innovatecorp.com
+10,"Prime Tools",usa,moulding,large-scale,www.primetools.com
+11,TechWave,japan,printing_3d,medium_scale,www.techwave.jp
+12,"Eagle Moulding",china,moulding,small_scale,www.eaglemoulding.cn
+13,"Mighty Cast",germany,casting,large-scale,www.mightycast.de
+14,PrintWorld,japan,printing_3d,medium_scale,www.printworld.jp
+15,"Precision Coaters",usa,coating,small_scale,www.precisioncoaters.com
+16,FusionWorks,india,casting,large-scale,www.fusionworks.in
+17,CastMaster,china,casting,medium_scale,www.castmaster.cn
+18,"Rapid 3D",japan,printing_3d,small_scale,www.rapid3d.jp
+19,"NextGen Moulds",germany,moulding,large-scale,www.nextgenmoulds.de
+20,EcoCoat,usa,coating,medium_scale,www.ecocoat.com
+21,"Elite Casting",india,casting,small_scale,www.elitecasting.in
+22,PolyPrint,china,printing_3d,large-scale,www.polyprint.cn
+23,"Nano Coaters",germany,coating,medium_scale,www.nanocoaters.de
+24,UltraMould,usa,moulding,small_scale,www.ultramould.com
+25,TechCrafters,japan,printing_3d,large-scale,www.techcrafters.jp
+26,"Green Cast",india,casting,medium_scale,www.greencast.in
+27,"Print Masters",china,printing_3d,small_scale,www.printmasters.cn
+28,ProCoat,germany,coating,large-scale,www.procoat.de
+29,"Metal Moulds",usa,moulding,medium_scale,www.metalmoulds.com
+30,"Innovative 3D",japan,printing_3d,small_scale,www.innovative3d.jp
+31,MouldPro,india,moulding,large-scale,www.mouldpro.in
+32,CastTech,china,casting,medium_scale,www.casttech.cn
+33,FutureCoat,germany,coating,small_scale,www.futurecoat.de
+34,"Precision Cast",usa,casting,large-scale,www.precisioncast.com
+35,"Print Innovators",japan,printing_3d,medium_scale,www.printinnovators.jp
+36,"Super Mould",india,moulding,small_scale,www.supermould.in
+37,"Xtreme Casting",china,casting,large-scale,www.xtremecasting.cn
+38,"Perfect Coaters",germany,coating,medium_scale,www.perfectcoaters.de
+39,"Titan Moulding",usa,moulding,small_scale,www.titanmoulding.com
+40,"3D Tech",japan,printing_3d,large-scale,www.3dtech.jp
+41,"Prime Cast",india,casting,medium_scale,www.primecast.in
+42,NanoPrint,china,printing_3d,small_scale,www.nanoprint.cn
+43,"Eco Moulds",germany,moulding,large-scale,www.ecomoulds.de
+44,"Quick Coating",usa,coating,medium_scale,www.quickcoating.com
+45,"Rapid Cast",japan,casting,small_scale,www.rapidcast.jp
+46,MouldX,india,moulding,large-scale,www.mouldx.in
+47,"Cast Innovators",china,casting,medium_scale,www.castinnovators.cn
+48,"Precision Printing",germany,printing_3d,small_scale,www.precisionprinting.de
+49,"Elite Coaters",usa,coating,large-scale,www.elitecoaters.com
+50,PrintSharp,japan,printing_3d,medium_scale,www.printsharp.jp
+51,ProMould,india,moulding,small_scale,www.promould.in
